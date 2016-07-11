@@ -4,10 +4,19 @@ A compilation of blockchain education resources to help you dive into this indus
 # Blockchain: the internet’s trust protocol
 
 Introduction to the trust protocol
-- What is Bitcoin 
-- What is a distributed ledger
+- What is Bitcoin?
+- What is a distributed ledger?
 - How does it work?
-- Design principles (as outlined in the Blockchain Revolution): Networked integrity, Distributed power, value as an incentive, security, privacy, rights reserved, inclusion
+
+Design principles 
+-(as outlined in the Blockchain Revolution)
+- Networked integrity
+- Distributed power
+- Value as an incentive
+- Security 
+- Privacy
+- Rights reserved
+- Inclusion
 
 Reinventing financial services
 - Accessible to unbanked
