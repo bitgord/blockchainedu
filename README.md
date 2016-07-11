@@ -1,7 +1,7 @@
 # blockchainedu
 A compilation of blockchain education resources to help you dive into this industry
 
-Blockchain: the internet’s trust protocol
+# Blockchain: the internet’s trust protocol
 
 Introduction to the trust protocol
 What is Bitcoin 
