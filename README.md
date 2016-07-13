@@ -3,13 +3,12 @@ A compilation of blockchain education resources to help you dive into this indus
 
 # Blockchain: the internet’s trust protocol
 
-Introduction to the trust protocol
+Introduction to the trust protocol:
 - What is Bitcoin?
 - What is a distributed ledger?
 - How does it work?
 
-Design principles 
--(as outlined in the Blockchain Revolution)
+Design principles (as outlined in the Blockchain Revolution):
 - Networked integrity
 - Distributed power
 - Value as an incentive
@@ -18,7 +17,7 @@ Design principles
 - Rights reserved
 - Inclusion
 
-Reinventing financial services
+Reinventing financial services:
 - Accessible to unbanked
 - Blockchain ICO
 - Corporate governance
@@ -28,27 +27,27 @@ Reinventing financial services
 - Credit scores
 - Modular
 
-Reinventing the firm 
+Reinventing the firm:
 - Consensys
 - DAO
 - Globally Accessible Prediction Markets
 - Public database of information
 - Wisdom of the crowd 
 
-Indentity & IoT Security 
+Indentity & IoT Security: 
 - Controlling identity 
 - Sharing economy
 - Internet of things 
 - Ledger of things
 - Internet of everything
 
-Rebuilding Government
+Rebuilding Government:
 - Voting on the Blockchain
 - Transparency in finances
 - Taxation
 - Open and immutable records
 
-Rebuilding Culture
+Rebuilding Culture:
 - Music & Art
 - Uncensorable publishing
 - Everyone is an entrepreneur
